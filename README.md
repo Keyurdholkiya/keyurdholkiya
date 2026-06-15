@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://chatgpt.com/s/m_6a301bb1b0ac8191b7e811642f91318e" width="100%">
+  <img src="https://github.com/Keyurdholkiya/keyurdholkiya/blob/1ef8bc59912aecb48a9d67d7c44fc3643a3e687a/ChatGPT%20Image%20Jun%2015%2C%202026%2C%2004_46_35%20PM.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Keyur Dholkiya</h1>
