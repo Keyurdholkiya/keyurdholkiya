@@ -97,7 +97,7 @@ A platform that helps connect food donors with underprivileged communities.
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/keyur-dholkiya-467466279/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
